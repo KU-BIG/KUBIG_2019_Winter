@@ -2,6 +2,8 @@
 
 ## How to
 
-![img1.png]()
+<p align="left">
+  <img width=300 src="img1.png">
+</p>
 
-Create a branch for study
+Create a branch for your study
