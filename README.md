@@ -6,4 +6,4 @@
   <img width=300 src="img1.png">
 </p>
 
-Create a branch for your study
+Create a branch for your study from master branch
