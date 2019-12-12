@@ -1,4 +1,6 @@
 # KUBIG_2019_Winter
+Repository for winter study
+
 
 ## How to
 
